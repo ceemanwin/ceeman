@@ -6,5 +6,9 @@ public class LoginAction {
 		// TODO Auto-generated method stub
 		System.out.print("hello,world!");
 	}
+	
+	public void loginAction() {
+		
+	}
 
 }
